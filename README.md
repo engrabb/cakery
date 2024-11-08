@@ -1,3 +1,10 @@
+React project for a cakery website!
+
+This app is built entirely in React and the focus have been learning to use the language, how to create objects and pages. Mostly the basics
+
+The site is not entirely finished, you can look at it as a skeleton of what can be!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
